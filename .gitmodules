@@ -1,0 +1,6 @@
+[submodule "microservices/post-service"]
+	path = microservices/post-service
+	url = git@github.com:didamendes/post-service.git
+[submodule "microservices/text-processor-service"]
+	path = microservices/text-processor-service
+	url = git@github.com:didamendes/text-processor-service.git
